@@ -1,0 +1,25 @@
+[debug] [2023-03-30T12:46:41.271Z] ----------------------------------------------------------------------
+[debug] [2023-03-30T12:46:41.271Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Léo\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-03-30T12:46:41.272Z] CLI Version:   11.25.2
+[debug] [2023-03-30T12:46:41.272Z] Platform:      win32
+[debug] [2023-03-30T12:46:41.272Z] Node Version:  v18.15.0
+[debug] [2023-03-30T12:46:41.272Z] Time:          Thu Mar 30 2023 14:46:41 GMT+0200 (heure d’été d’Europe centrale)
+[debug] [2023-03-30T12:46:41.272Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-03-30T12:46:41.311Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-03-30T12:46:41.311Z] > authorizing via signed-in user (leo.philip33.bordeaux@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Léo\Desktop\socialConnect
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
